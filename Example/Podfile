@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'CustomUISearchDisplayController_Example', :exclusive => true do
+  pod "CustomUISearchDisplayController", :path => "../"
+end
+
+target 'CustomUISearchDisplayController_Tests', :exclusive => true do
+  pod "CustomUISearchDisplayController", :path => "../"
+
+  
+end
