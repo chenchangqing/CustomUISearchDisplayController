@@ -1,0 +1,14 @@
+PODS:
+  - CustomUISearchDisplayController (0.1.0)
+
+DEPENDENCIES:
+  - CustomUISearchDisplayController (from `../`)
+
+EXTERNAL SOURCES:
+  CustomUISearchDisplayController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CustomUISearchDisplayController: 182ebc3ea972c92b0294d27e8af5fbf9b5373889
+
+COCOAPODS: 0.39.0
